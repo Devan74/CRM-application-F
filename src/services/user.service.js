@@ -1,7 +1,7 @@
 import axios from 'axios';
 import authHeader from './auth-header';
 
-const API_URL = 'https://crmapplication7.herokuapp.com/api/test/';
+const API_URL = 'https://crm-application-vdyw.onrender.com/api/test/';
 
 class UserService {
   getPublicContent() {

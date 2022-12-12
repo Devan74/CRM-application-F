@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://crmapplication7.herokuapp.com/api/auth/";
+const API_URL = "https://crm-application-vdyw.onrender.com/api/auth/";
 
 class AuthService {
   login(username, password) {
